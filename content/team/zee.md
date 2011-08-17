@@ -1,7 +1,7 @@
 Peter van der Zee
 =================
 
-JavaScript developer
+JavaScript Developer
 --------------------
 
 [Peter van der Zee](../media/img/team/zee.jpg)
