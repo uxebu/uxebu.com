@@ -1,7 +1,7 @@
 David Aurelio
 =============
 
-JavaScript developer
+JavaScript Developer
 --------------------
 
 [David Aurelio](../media/img/team/aurelio.jpg)
