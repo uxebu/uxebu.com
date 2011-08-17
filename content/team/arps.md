@@ -1,7 +1,7 @@
 Jens Arps
 =========
 
-JavaScript developer
+JavaScript Developer
 --------------------
 
 [Jens Arps](../media/img/team/arps.jpg)

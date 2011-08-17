@@ -1,7 +1,7 @@
 Stephan Seidt
 =============
 
-JavaScript developer
+JavaScript Developer
 --------------------
 
 [Stephan Seidt](../media/img/team/seidt.jpg)
