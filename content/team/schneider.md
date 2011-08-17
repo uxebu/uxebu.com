@@ -1,7 +1,7 @@
 Tobias Schneider
 ================
 
-JavaScript developer
+JavaScript Developer
 --------------------
 
 [Tobias Schneider](../media/img/team/schneider.jpg)
