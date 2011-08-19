@@ -75,7 +75,7 @@ Open Source Projects
 * [HumanAPI](http://humanapi.org)
   [Interface hardware with web technologies](http://humanapi.org)
 * [StorageJS](https://github.com/jensarps/StorageJS)
-  [Micro warpper for browser storage](https://github.com/jensarps/StorageJS)
+  [Micro wrapper for browser storage](https://github.com/jensarps/StorageJS)
 * [TouchScroll](http://uxebu.com/blog/2010/04/27/touchscroll-a-scrolling-layer-for-webkit-mobile)
   [A scrolling layer to fix position:fixed on iOS](http://uxebu.com/blog/2010/04/27/touchscroll-a-scrolling-layer-for-webkit-mobile)
 
