@@ -50,7 +50,7 @@ We also openly share our knowledge and thoughts, live on events and on our blog.
 Client Projects
 ===============
 
-* [Woodwing reader](http://woodwing.com)
+* [WoodWing reader](http://woodwing.com)
   [HTML5 reader for WebOS and Chrome](http://woodwing.com)
 * [Civiguard](http://civiguard.com)
   [Mobile App for disaster/crisis management](http://civiguard.com).
