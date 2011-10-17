@@ -59,11 +59,15 @@ function mixin(target, obj){
 //      5. Compiling less to one CSS-file: prepareLess()
 
 console.log('Welcome to the epic');
+try {
+    fs.mkdirSync(appConfig.releaseDir, 0755);
+}catch(e){}
 appConfig.printValues();
 clean(function(){
+
     processFiles('', true);
     processFiles('/error', false); // Static, no markdown
-
+    
     fs.mkdirSync(path.join(appConfig.releaseDir, "static", "css"), 0755);
     processLess(path.join(appConfig.releaseDir, "static/less/style.less"), path.join(appConfig.releaseDir, "static/css/style.css"));
 
