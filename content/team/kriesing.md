@@ -1,7 +1,7 @@
 Wolfram Kriesing
 ================
 
-Co-Founder
+CTO
 ----------
 
 [Wolfram Kriesing](../media/img/team/kriesing.jpg)
