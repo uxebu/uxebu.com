@@ -1,7 +1,7 @@
 Tobias von Klipstein
 ================
 
-Co-Founder
+COO
 ----------
 
 [Tobias von Klipstein](../media/img/team/klipstein.jpg)

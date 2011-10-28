@@ -83,15 +83,15 @@ uxebu team
 ==========
 
 * [Tobias von Klipstein](team/klipstein.html)
-  Co-Founder
+  COO
   ![Tobias von Klipstein](media/img/team/klipstein.jpg)
 
 * [Wolfram Kriesing](team/kriesing.html)
-  Co-Founder
+  CTO
   ![Alttext](media/img/team/kriesing.jpg)
 
 * [Nikolai Onken](team/onken.html)
-  Co-Founder
+  CEO
   ![Alt text](media/img/team/onken.jpg)
 
 * [David Aurelio](team/aurelio.html)
@@ -117,6 +117,10 @@ uxebu team
 * [John-David Dalton](team/dalton.html)
   JavaScript Developer
   ![Alt text](media/img/team/dalton.jpg)
+
+* [Tobias Reiss](team/reiss.html)
+  JavaScript Developer
+  ![Alt text](media/img/team/reiss.jpg)
 
 Address & Phone
 ===============

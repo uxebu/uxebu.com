@@ -1,7 +1,7 @@
 Nikolai Onken
 =============
 
-Co-Founder
+CEO
 ----------
 
 [Nikolai Onken](../media/img/team/onken.jpg)
