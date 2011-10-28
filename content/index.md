@@ -82,17 +82,17 @@ Open Source Projects
 uxebu team
 ==========
 
-* [Tobias von Klipstein](team/klipstein.html)
-  COO
-  ![Tobias von Klipstein](media/img/team/klipstein.jpg)
+* [Nikolai Onken](team/onken.html)
+  CEO
+  ![Alt text](media/img/team/onken.jpg)
 
 * [Wolfram Kriesing](team/kriesing.html)
   CTO
   ![Alttext](media/img/team/kriesing.jpg)
 
-* [Nikolai Onken](team/onken.html)
-  CEO
-  ![Alt text](media/img/team/onken.jpg)
+* [Tobias von Klipstein](team/klipstein.html)
+  COO
+  ![Tobias von Klipstein](media/img/team/klipstein.jpg)
 
 * [David Aurelio](team/aurelio.html)
   JavaScript Developer
