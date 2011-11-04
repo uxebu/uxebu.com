@@ -124,8 +124,8 @@ Address & Phone
 uxebu was founded in 2008 and is based in Munich, Amsterdam and Palo Alto.
 
 **uxebu Consulting Ltd. & Co. KG**  
-Richard-Strauss-Str. 21  
-81677 München  
+Südliche Münchner Straße 2  
+82031 München  
 Germany
 
 **Phone: [+49 89 122 219 626](tel:+4989122219626)**  
