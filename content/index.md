@@ -50,7 +50,7 @@ We also openly share our knowledge and thoughts, live on events and on our blog.
 Client Projects
 ===============
 
-* [WoodWing reader](http://woodwing.com)
+* [Woodwing reader](http://woodwing.com)
   [HTML5 reader for WebOS and Chrome](http://woodwing.com)
 * [Civiguard](http://civiguard.com)
   [Mobile App for disaster/crisis management](http://civiguard.com).
@@ -75,24 +75,24 @@ Open Source Projects
 * [HumanAPI](http://humanapi.org)
   [Interface hardware with web technologies](http://humanapi.org)
 * [StorageJS](https://github.com/jensarps/StorageJS)
-  [Micro wrapper for browser storage](https://github.com/jensarps/StorageJS)
+  [Micro warpper for browser storage](https://github.com/jensarps/StorageJS)
 * [TouchScroll](http://uxebu.com/blog/2010/04/27/touchscroll-a-scrolling-layer-for-webkit-mobile)
   [A scrolling layer to fix position:fixed on iOS](http://uxebu.com/blog/2010/04/27/touchscroll-a-scrolling-layer-for-webkit-mobile)
 
 uxebu team
 ==========
 
-* [Tobias von Klipstein](team/klipstein.html)
-  Co-Founder
-  ![Tobias von Klipstein](media/img/team/klipstein.jpg)
+* [Nikolai Onken](team/onken.html)
+  CEO
+  ![Alt text](media/img/team/onken.jpg)
 
 * [Wolfram Kriesing](team/kriesing.html)
-  Co-Founder
+  CTO
   ![Alttext](media/img/team/kriesing.jpg)
 
-* [Nikolai Onken](team/onken.html)
-  Co-Founder
-  ![Alt text](media/img/team/onken.jpg)
+* [Tobias von Klipstein](team/klipstein.html)
+  COO
+  ![Tobias von Klipstein](media/img/team/klipstein.jpg)
 
 * [David Aurelio](team/aurelio.html)
   JavaScript Developer
@@ -117,6 +117,10 @@ uxebu team
 * [John-David Dalton](team/dalton.html)
   JavaScript Developer
   ![Alt text](media/img/team/dalton.jpg)
+
+* [Tobias Reiss](team/reiss.html)
+  JavaScript Developer
+  ![Alt text](media/img/team/reiss.jpg)
 
 Address & Phone
 ===============
