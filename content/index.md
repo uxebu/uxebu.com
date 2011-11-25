@@ -16,8 +16,8 @@ Want to travel the [JavaScript universe](http://uxebu.com/blog/2011/02/10/travel
 
 * * *
 
-Meet the uxebu crew at
-[JsConf](http://jsconf.eu), [DojoConf](http://dojoconf.com) and [FullFrontal](http://2011.full-frontal.org)
+We are bikeshedding
+Starting December 2011
 
 We are uxebu
 ============
