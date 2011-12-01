@@ -122,6 +122,10 @@ uxebu team
   JavaScript Developer
   ![Alt text](media/img/team/reiss.jpg)
 
+* [James Padolsey](team/padolsey.html)
+  JavaScript Developer
+  ![James Padolsey](media/img/team/padolsey.jpg)
+
 Address & Phone
 ===============
 
