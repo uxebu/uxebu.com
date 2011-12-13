@@ -44,3 +44,17 @@ exec(cmd,
         }
     }
 );
+
+appUtil.statusLog('Post processor\t' + 'Copying html5-workshop files');
+
+var cmd = 'cp -r ' + path.join(__dirname, '../../', 'uxebu.com-data/html5-workshop') + ' ' + appConfig.releaseDir;
+
+exec(cmd,
+    function (err, stdout, stderr) {
+        if (err !== null) {
+            console.log('Error copying (' + cmd + ') static files: ' + err);
+        }else{
+            console.log('Copied files from post processor');
+        }
+    }
+);

@@ -16,8 +16,8 @@ Want to travel the [JavaScript universe](http://uxebu.com/blog/2011/02/10/travel
 
 * * *
 
-Meet the uxebu crew at
-[JsConf](http://jsconf.eu), [DojoConf](http://dojoconf.com) and [FullFrontal](http://2011.full-frontal.org)
+We are bikeshedding
+Starting December 2011
 
 We are uxebu
 ============
@@ -82,17 +82,17 @@ Open Source Projects
 uxebu team
 ==========
 
-* [Tobias von Klipstein](team/klipstein.html)
-  Co-Founder
-  ![Tobias von Klipstein](media/img/team/klipstein.jpg)
+* [Nikolai Onken](team/onken.html)
+  CEO
+  ![Alt text](media/img/team/onken.jpg)
 
 * [Wolfram Kriesing](team/kriesing.html)
-  Co-Founder
+  CTO
   ![Alttext](media/img/team/kriesing.jpg)
 
-* [Nikolai Onken](team/onken.html)
-  Co-Founder
-  ![Alt text](media/img/team/onken.jpg)
+* [Tobias von Klipstein](team/klipstein.html)
+  COO
+  ![Tobias von Klipstein](media/img/team/klipstein.jpg)
 
 * [David Aurelio](team/aurelio.html)
   JavaScript Developer
@@ -118,14 +118,22 @@ uxebu team
   JavaScript Developer
   ![Alt text](media/img/team/dalton.jpg)
 
+* [Tobias Reiss](team/reiss.html)
+  JavaScript Developer
+  ![Alt text](media/img/team/reiss.jpg)
+
+* [James Padolsey](team/padolsey.html)
+  JavaScript Developer
+  ![James Padolsey](media/img/team/padolsey.jpg)
+
 Address & Phone
 ===============
 
 uxebu was founded in 2008 and is based in Munich, Amsterdam and Palo Alto.
 
 **uxebu Consulting Ltd. & Co. KG**  
-Richard-Strauss-Str. 21  
-81677 München  
+Südliche Münchner Straße 2  
+82031 Grünwald b. München  
 Germany
 
 **Phone: [+49 89 122 219 626](tel:+4989122219626)**  

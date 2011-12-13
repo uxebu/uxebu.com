@@ -4,8 +4,8 @@ Detailed contact info
 **Germany:**
 
 uxebu Consulting Ltd. & Co. KG  
-Richard-Strauss-Str. 21  
-81677 München  
+Südliche Münchner Straße 2  
+82031 Grünwald b. München  
 Germany
 
 Phone: +49 89 122 219 626  
