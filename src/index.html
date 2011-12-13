@@ -204,7 +204,7 @@
                     <div class="col-6">
                         <h2 class="h3 line business">Contact</h2>
                         <p id="thanks" name="thanks"><span style="display: none;">Thank you for contacting us! We will contact you within two business days.</span></p>
-                        <form class="uni-form mbl" action="https://service.capsulecrm.com/service/newlead" method="post">
+                        <form class="uni-form mbl" action="http://uxebu.com/contact" method="post" name="contact">
                             <input type="hidden" name="FORM_ID" value="bbe497f7-1a5e-434e-876e-20dddcc754f7" />
                             <input type="hidden" name="COMPLETE_URL" value="http://uxebu.com/#thanks" />
                             <input type="hidden" name="TAG" value="www" />
@@ -231,6 +231,10 @@
                             <div class="ctrl-holder">
                                 <label for="id_NOTE">How can we help?</label>
                                 <textarea id="id_NOTE" rows="6" name="NOTE" class="text-input large"></textarea>
+                            </div>
+                            <div class="ctrl-holder spaem" style="display: none;">
+                                <label for="id_spaem">Are you a spaem bot?</label>
+                                <input type="text" name="spaem" id="id_spaem" class="text-input large" placeholder="" />
                             </div>
                             <div class="ctrl-holder" style="text-align: right;">
                                 <button class="primary-action button" type="submit">Submit</button>

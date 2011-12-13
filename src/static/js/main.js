@@ -96,6 +96,8 @@
     }
 
     function initIndex(){
+        secureForm();
+
         var p = dojo.query('.pane');
         var panes = p.map(function(pane){
             return {
@@ -165,6 +167,25 @@
                 });
             }
         });
+    }
+
+    function secureForm(){
+        var _a = "crm.com/service/newlead",
+            _b = "https://service.capsule",
+            form = document['fo' + 'rms']['co' + 'ntact'],
+            chk = dojo.byId('id_spaem');
+
+        function check(e){
+            e.preventDefault();
+            e.stopPropagation();
+            if (!chk.value.length){
+                form.onsubmit = null;
+                form.action = _b + _a;
+                form.submit();
+            }
+        }
+
+        form.onsubmit = check;
     }
 
     dojo.ready(function(){
