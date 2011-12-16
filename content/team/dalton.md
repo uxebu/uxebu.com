@@ -14,7 +14,7 @@ Special Moves
 
 * Cross-browser/environment scripting
 * [Benchmark.js](http://benchmarkjs.com/)
-* [has.js](http://https://github.com/phiggins42/has.js)
+* [has.js](http://github.com/phiggins42/has.js)
 * Prototype, MooTools, jQuery
 
 Contact
