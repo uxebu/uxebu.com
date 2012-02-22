@@ -13,10 +13,10 @@ Co-founding uxebu, a JavaScript! company, felt a bit scary back in 2008, but tog
 Special Moves
 -------------
 
-* [Play Tetris](http://www.freetetris.org/game.php)
 * Family
-* [HTML5 WebTestSuite](https://github.com/vf/web-testsuite) ([run](http://bit.ly/run-webtestsuite) now)
-* [Dools](http://github.com/wolframkriesing/dools) - JavaScript API [docs](http://dojodocs.uxebu.com)
+* Watching [bikeshed movies](http://bike.sh)
+* [Play Tetris](http://www.freetetris.org/game.php)
+* TDDing the heck out it
 
 Contact
 =======
