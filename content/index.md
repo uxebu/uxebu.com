@@ -102,10 +102,6 @@ uxebu team
   JavaScript Developer
   ![Alt text](media/img/team/arps.jpg)
 
-* [Tobias Schneider](team/schneider.html)
-  JavaScript Developer
-  ![Alt text](media/img/team/schneider.jpg)
-
 * [Stephan Seidt](team/seidt.html)
   JavaScript Developer
   ![Alt text](media/img/team/seidt.jpg)
