@@ -16,7 +16,7 @@ Special Moves
 * Family
 * Watching [bikeshed movies](http://bike.sh)
 * [Play Tetris](http://www.freetetris.org/game.php)
-* TDDing the heck out it
+* [TDD](http://en.wikipedia.org/wiki/Test-driven_development)ing the heck out it
 
 Contact
 =======
