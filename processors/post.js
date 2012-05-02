@@ -58,3 +58,18 @@ exec(cmd,
         }
     }
 );
+
+appUtil.statusLog('Post processor\t' + 'Copying conversion files');
+
+var cmd = 'cp -r ' + path.join(__dirname, '../../', 'uxebu.com-data/conversion') + ' ' + appConfig.releaseDir;
+
+exec(cmd,
+    function (err, stdout, stderr) {
+        if (err !== null) {
+            console.log('Error copying (' + cmd + ') static files: ' + err);
+        }else{
+            console.log('Copied files from post processor');
+        }
+    }
+);
+
