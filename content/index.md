@@ -107,7 +107,7 @@ uxebu team
   JavaScript Developer
   ![James Padolsey](media/img/team/padolsey.jpg)
 
-* [Phil Winfram](team/winram.html)
+* [Phil Winram](team/winram.html)
   Sales / Marketing
   ![Phil Winram](media/img/team/winram.jpg)
 
