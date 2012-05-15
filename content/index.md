@@ -107,18 +107,22 @@ uxebu team
   JavaScript Developer
   ![James Padolsey](media/img/team/padolsey.jpg)
 
+* [Phil Winfram](team/winram.html)
+  Sales / Marketing
+  ![Phil Winram](media/img/team/winram.jpg)
+
 Address & Phone
 ===============
 
 uxebu was founded in 2008 and is based in Munich, Amsterdam and Palo Alto.
 
-**uxebu Consulting Ltd. & Co. KG**  
-Südliche Münchner Straße 2  
-82031 Grünwald b. München  
+**uxebu Consulting Ltd. & Co. KG**
+Südliche Münchner Straße 2
+82031 Grünwald b. München
 Germany
 
-**Phone: [+49 89 122 219 626](tel:+4989122219626)**  
-Fax: +49 89 122 219 626 - 8  
+**Phone: [+49 89 122 219 626](tel:+4989122219626)**
+Fax: +49 89 122 219 626 - 8
 E-Mail: [contact @ uxebu.com](mailto:%63%6F%6E%74%61%63%74%40%75%78%65%62%75%2E%63%6F%6D)
 
 [Impressum / Legal](/legal.html)
