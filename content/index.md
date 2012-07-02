@@ -111,6 +111,10 @@ uxebu team
   Sales / Marketing
   ![Phil Winram](media/img/team/winram.jpg)
 
+* [Fabio Basile](team/basile.html)
+  Creative Director
+  ![Fabio Basile](media/img/team/basile.jpg)
+
 Address & Phone
 ===============
 
