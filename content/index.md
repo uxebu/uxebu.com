@@ -7,8 +7,7 @@ Announcing
 We are uxebu
 ============
 
-We have proven that latest web technologies can run on any platform. We can help your (mobile) web app to go where no other web app has gone before:
-To any app store in the world!
+We have proven that latest web technologies can run on any platform. We build HTML5 and open web authoring tools and specialize in Flash to HTML5 conversion.
 
 We are pioneers. We do stuff that others just can’t do, because it has never been done before. R&D is essential for our daily work.
 
