@@ -1,17 +1,16 @@
 Trailer
 =======
 
-Announcing
-[Bikeshed Flash to HTML5 Conversion](http://bike.sh)
+Say hi to
+[pixelplant.com](http://pixelplant.com)
 
 We are uxebu
 ============
 
-We have proven that latest web technologies can run on any platform. We build HTML5 and open web authoring tools and specialize in Flash to HTML5 conversion.
-
-We are pioneers. We do stuff that others just can’t do, because it has never been done before. R&D is essential for our daily work.
-
-Please get in touch so we can discuss your web development project!
+Uxebu is a distributed team of passionate software developers. 
+We love what we do, and we’re continually innovating and adapting. 
+We build tools for developing and expressing ideas through open and standard web technologies. 
+By combining the specialized knowledge and skills of our team we aim is to deliver quality software solutions and friendly knowledgeable service.
 
 [Contact](#contact-form)
 
