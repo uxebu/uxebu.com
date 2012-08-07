@@ -1,7 +1,7 @@
 Trailer
 =======
 
-Say hi to  
+Say hi to
 [pixelplant.com](http://pixelplant.com)
 
 We are uxebu
