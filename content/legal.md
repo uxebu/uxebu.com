@@ -21,7 +21,7 @@ USt-IdNr. DE264429812
 **USA:**
 
 uxebu Inc.  
-1530 Page Mill Road, Suite 200  
+950 Page Mill Road  
 Palo Alto, California 94304  
 USA  
 
