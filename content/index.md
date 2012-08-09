@@ -117,10 +117,11 @@ Address & Phone
 
 uxebu was founded in 2008 and is based in Munich, Amsterdam and Palo Alto.
 
-**uxebu Consulting Ltd. & Co. KG**  
-Südliche Münchner Straße 2  
-82031 Grünwald b. München  
-Germany
+**uxebu Inc.**  
+uxebu Inc.  
+950 Page Mill Road  
+Palo Alto, California 94304  
+USA  
 
 **Phone: [+49 89 122 219 626](tel:+4989122219626)**  
 Fax: +49 89 122 219 626 - 8  
