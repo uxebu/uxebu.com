@@ -1,6 +1,13 @@
 Detailed contact info
 =====================
 
+**USA:**
+
+uxebu Inc.  
+950 Page Mill Road  
+Palo Alto, California 94304  
+USA  
+
 **Germany:**
 
 uxebu Consulting Ltd. & Co. KG  
@@ -15,15 +22,6 @@ E-Mail: contact at uxebu.com
 Registrar of Companies: München  
 Registrar number: HRA 93461  
 USt-IdNr. DE264429812
-
-
-
-**USA:**
-
-uxebu Inc.  
-950 Page Mill Road  
-Palo Alto, California 94304  
-USA  
 
 Legal
 =====
