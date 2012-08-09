@@ -118,7 +118,6 @@ Address & Phone
 uxebu was founded in 2008 and is based in Munich, Amsterdam and Palo Alto.
 
 **uxebu Inc.**  
-uxebu Inc.  
 950 Page Mill Road  
 Palo Alto, California 94304  
 USA  
