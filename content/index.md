@@ -49,11 +49,13 @@ Client Projects
 * [Deutsche Telekom](http://telekom.de)
   [Development of media center web application.](http://telekom.de)
 
-Open Source Projects
+Projects
 ====================
 
+* [Pixelplant](https://www.pixelplant.com/)
+  [We convert Flash to HTML5](https://www.pixelplant.com/)
 * [BonsaiJS](http://bonsaijs.org)
-  [A lightweight graphics library with an intuitive graphics API and an SVG renderer.](http://bonsaijs.org)
+  [A lightweight graphics library with an intuitive graphics API and an SVG renderer](http://bonsaijs.org)
 * [Gordon](https://github.com/tobeytailor/gordon)
   [Flash(TM) runtime in JavaScript](https://github.com/tobeytailor/gordon)
 * [HumanAPI](http://humanapi.org)
