@@ -52,16 +52,12 @@ Client Projects
 Open Source Projects
 ====================
 
-* [apparat.io](http://apparat.io)
-  [Package your HTML5 app for all app stores](http://apparat.io)
-* [embedJS](http://embedjs.org)
-  [Ship no useless byte](http://embedjs.org)
+* [BonsaiJS](http://bonsaijs.org)
+  [A lightweight graphics library with an intuitive graphics API and an SVG renderer.](http://bonsaijs.org)
 * [Gordon](https://github.com/tobeytailor/gordon)
   [Flash(TM) runtime in JavaScript](https://github.com/tobeytailor/gordon)
 * [HumanAPI](http://humanapi.org)
   [Interface hardware with web technologies](http://humanapi.org)
-* [StorageJS](https://github.com/jensarps/StorageJS)
-  [Micro wrapper for browser storage](https://github.com/jensarps/StorageJS)
 * [TouchScroll](http://uxebu.com/blog/2010/04/27/touchscroll-a-scrolling-layer-for-webkit-mobile)
   [A scrolling layer to fix position:fixed on iOS](http://uxebu.com/blog/2010/04/27/touchscroll-a-scrolling-layer-for-webkit-mobile)
 
@@ -83,14 +79,6 @@ uxebu team
 * [David Aurelio](team/aurelio.html)
   JavaScript Developer
   ![Alt text](media/img/team/aurelio.jpg)
-
-* [Jens Arps](team/arps.html)
-  JavaScript Developer
-  ![Alt text](media/img/team/arps.jpg)
-
-* [Stephan Seidt](team/seidt.html)
-  JavaScript Developer
-  ![Alt text](media/img/team/seidt.jpg)
 
 * [Peter van der Zee](team/zee.html)
   JavaScript Developer
