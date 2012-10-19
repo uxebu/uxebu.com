@@ -11,7 +11,7 @@ Uxebu is a distributed team of passionate software developers.
 
 We love what we do, and we’re continually innovating and adapting.
 
-We build tools for developing and expressing ideas through open and standard web technologies. 
+We build tools for developing and expressing ideas through open and standard web technologies.
 
 By combining the specialized knowledge and skills of our team we aim is to deliver quality software solutions and friendly knowledgeable service.
 
@@ -93,10 +93,6 @@ uxebu team
 * [James Padolsey](team/padolsey.html)
   JavaScript Developer
   ![James Padolsey](media/img/team/padolsey.jpg)
-
-* [Phil Winram](team/winram.html)
-  Sales / Marketing
-  ![Phil Winram](media/img/team/winram.jpg)
 
 * [Fabio Basile](team/basile.html)
   Creative Director
