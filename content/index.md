@@ -90,9 +90,9 @@ uxebu team
   JavaScript Developer
   ![Alt text](media/img/team/reiss.jpg)
 
-* [James Padolsey](team/padolsey.html)
+* [Patrick Wied](team/wied.html)
   JavaScript Developer
-  ![James Padolsey](media/img/team/padolsey.jpg)
+  ![Patrick Wied](media/img/team/wied.jpg)
 
 * [Fabio Basile](team/basile.html)
   Creative Director
