@@ -13,7 +13,7 @@ We love what we do, and we’re continually innovating and adapting.
 
 We build tools for developing and expressing ideas through open and standard web technologies.
 
-By combining the specialized knowledge and skills of our team we aim is to deliver quality software solutions and friendly knowledgeable service.
+By combining the specialized knowledge and skills of our team we aim to deliver quality software solutions and friendly knowledgeable service.
 
 [Contact](#contact-form)
 
