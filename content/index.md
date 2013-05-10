@@ -82,10 +82,6 @@ uxebu team
   JavaScript Developer
   ![Alt text](media/img/team/aurelio.jpg)
 
-* [Peter van der Zee](team/zee.html)
-  JavaScript Developer
-  ![Alt text](media/img/team/zee.jpg)
-
 * [Tobias Reiss](team/reiss.html)
   JavaScript Developer
   ![Alt text](media/img/team/reiss.jpg)
@@ -93,10 +89,6 @@ uxebu team
 * [Patrick Wied](team/wied.html)
   JavaScript Developer
   ![Patrick Wied](media/img/team/wied.jpg)
-
-* [Fabio Basile](team/basile.html)
-  Creative Director
-  ![Fabio Basile](media/img/team/basile.jpg)
 
 Address & Phone
 ===============
