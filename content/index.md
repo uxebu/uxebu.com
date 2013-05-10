@@ -13,7 +13,7 @@ We love what we do, and we’re continually innovating and adapting.
 
 We build tools for developing and expressing ideas through open and standard web technologies.
 
-By combining the specialized knowledge and skills of our team we aim is to deliver quality software solutions and friendly knowledgeable service.
+By combining the specialized knowledge and skills of our team we aim to deliver quality software solutions and friendly knowledgeable service.
 
 [Contact](#contact-form)
 
@@ -82,10 +82,6 @@ uxebu team
   JavaScript Developer
   ![Alt text](media/img/team/aurelio.jpg)
 
-* [Peter van der Zee](team/zee.html)
-  JavaScript Developer
-  ![Alt text](media/img/team/zee.jpg)
-
 * [Tobias Reiss](team/reiss.html)
   JavaScript Developer
   ![Alt text](media/img/team/reiss.jpg)
@@ -93,10 +89,6 @@ uxebu team
 * [Patrick Wied](team/wied.html)
   JavaScript Developer
   ![Patrick Wied](media/img/team/wied.jpg)
-
-* [Fabio Basile](team/basile.html)
-  Creative Director
-  ![Fabio Basile](media/img/team/basile.jpg)
 
 Address & Phone
 ===============
