@@ -36,18 +36,20 @@ We also openly share our knowledge and thoughts, live on events and on our blog.
 Client Projects
 ===============
 
-* [Woodwing reader](http://woodwing.com)
-  [HTML5 reader for WebOS and Chrome](http://woodwing.com)
-* [Civiguard](http://civiguard.com)
-  [Mobile App for disaster/crisis management](http://civiguard.com).
 * [Vodafone](http://developer.vodafone.com)
   [Cross-platform development and testing strategy.](http://developer.vodafone.com)
-* [Chip App](http://chip.de)
-  [A hand-selected iPhone AppStore catalog.](http://chip.de)
+* [Motorola](http://motorola.com)
+  [HTML5 UI framework.](http://motorola.com)
+* [MSN](http://msn.com)
+  [HTML5 component development.](http://msn.com)
 * [BMW](http://bmw.com)
   [Web application for innovation management.](http://bmw.com)
 * [Deutsche Telekom](http://telekom.de)
   [Development of media center web application.](http://telekom.de)
+* [PRO7](http://pro7.de)
+  [HTML5 cross-platform video solution.](http://pro7.de)
+* [Chip.de](http://chip.de)
+  [A hand-selected iPhone AppStore catalog.](http://chip.de)
 
 Projects
 ====================
