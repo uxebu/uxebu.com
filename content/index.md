@@ -93,9 +93,9 @@ Address & Phone
 
 uxebu was founded in 2008 and is based in Augsburg, Amsterdam and Palo Alto.
 
-**uxebu GmbH**
-Fraunhofer Str. 31e
-86167 Augsburg
+**uxebu GmbH**  
+Fraunhofer Str. 31e  
+86167 Augsburg  
 Germany
 
 **Phone: [+49 89 122 219 626](tel:+4989122219626)**  
