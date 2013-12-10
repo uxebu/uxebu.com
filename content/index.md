@@ -88,19 +88,15 @@ uxebu team
   JavaScript Developer
   ![Alt text](media/img/team/reiss.jpg)
 
-* [Patrick Wied](team/wied.html)
-  JavaScript Developer
-  ![Patrick Wied](media/img/team/wied.jpg)
-
 Address & Phone
 ===============
 
-uxebu was founded in 2008 and is based in Munich, Amsterdam and Palo Alto.
+uxebu was founded in 2008 and is based in Augsburg, Amsterdam and Palo Alto.
 
-**uxebu Inc.**  
-950 Page Mill Road  
-Palo Alto, California 94304  
-USA  
+**uxebu GmbH**
+Fraunhofer Str. 31e
+86167 Augsburg
+Germany
 
 **Phone: [+49 89 122 219 626](tel:+4989122219626)**  
 Fax: +49 89 122 219 626 - 8  
