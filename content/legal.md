@@ -15,13 +15,6 @@ E-Mail: contact at uxebu.com
 Registrar of Companies: Augsburg  
 Registrar number: HRB 28114
 
-**USA:**
-
-uxebu Inc.  
-950 Page Mill Road  
-Palo Alto, California 94304  
-USA
-
 Legal
 =====
 
