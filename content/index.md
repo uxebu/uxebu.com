@@ -91,7 +91,7 @@ uxebu team
 Address & Phone
 ===============
 
-uxebu was founded in 2008 and is based in Augsburg, Amsterdam and Palo Alto.
+uxebu was founded in 2008 and is based in Augsburg and Amsterdam.
 
 **uxebu GmbH**  
 Fraunhofer Str. 31e  
