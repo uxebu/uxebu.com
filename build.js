@@ -191,7 +191,7 @@ function processLess(input, output){
             filename: input
         }).parse(data, function (err, tree){
             if (err){
-                less.writeError(err, options);
+                less.writeError(err);
                 process.exit(1);
             }else{
                 try{
@@ -206,7 +206,7 @@ function processLess(input, output){
                         sys.print(css);
                     }
                 }catch (e){
-                    less.writeError(e, options);
+                    less.writeError(e);
                     process.exit(2);
                 }
             }
