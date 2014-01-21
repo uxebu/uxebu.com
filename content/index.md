@@ -2,7 +2,7 @@ Trailer
 =======
 
 Come and practice 
-[JS CodeRetreat](http://jscoderetreat.com)
+[JavaScript CodeRetreat](http://jscoderetreat.com)
 
 We are uxebu
 ============
