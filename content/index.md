@@ -4,6 +4,16 @@ Trailer
 February 8th 2014
 [JavaScript CodeRetreat](http://jscoderetreat.com)
 
+***
+
+Software quality through TDD
+Learn, Practice, Apply - We help you
+
+***
+
+[Make tests read like a book](//uxebu.com/blog/2013/01/08/make-tests-read-like-a-book/)
+#blog about #TDD #jasmine
+
 We are uxebu
 ============
 
