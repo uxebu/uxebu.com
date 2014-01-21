@@ -1,8 +1,7 @@
 Trailer
 =======
 
-Say hi to [pixelplant.com](http://pixelplant.com)
-[Flash to HTML5 conversion](http://pixelplant.com)
+Come and practice [JS CodeRetreat](http://jscoderetreat.com)
 
 We are uxebu
 ============
