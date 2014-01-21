@@ -1,7 +1,7 @@
 Trailer
 =======
 
-Come and practice 
+February 8th 2014
 [JavaScript CodeRetreat](http://jscoderetreat.com)
 
 We are uxebu
