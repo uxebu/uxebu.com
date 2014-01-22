@@ -17,13 +17,32 @@ Learn, Practice, Apply - We help you
 We are uxebu
 ============
 
-Uxebu is a distributed team of passionate software developers.
-
-We love what we do, and we’re continually innovating and adapting.
-
-We build tools for developing and expressing ideas through open and standard web technologies.
+**We are a web programming and development consulting company**.
 
 By combining the specialized knowledge and skills of our team we aim to deliver quality software solutions and friendly knowledgeable service.
+
+
+**We are skilled.**
+
+We have expertise with a variety of programming languages, and a skilful knowledge of JavaScript and HTML5. That’s what we live and breathe for. We don’t just build your product, we make it outstanding. Our unique knowledge ensures high quality in maintaing your product durable.
+As a company, our aim is to focus on our clients and exceed their needs and expectations.
+
+
+**We love the web.**
+
+We are a distributed team of passionate and creative software developers. We love what we do, and we’re continually innovating and adapting to the latest market’s and client’s needs.
+We are craftsmen, therefore we constantly work on our craft and hone our skills.
+
+
+**We have principles.**
+
+Quality first and foremost. We believe in worldwide creative collaboration. We build our own tools, and we have created a range of relevant open source software.
+
+
+**We are masters in education too.**
+
+We believe that our passion has to be shared. We often organize events and free meeting around all over Europe. to educate people about the importance and beauty of what we do. We love to transfer the awareness of the importance and the beauty of what we do.
+
 
 [Contact](#contact-form)
 
@@ -31,12 +50,18 @@ By combining the specialized knowledge and skills of our team we aim to deliver 
 We are geeks
 ============
 
+**We embrace Open Source**
+
 We embrace Open Source and Web Technologies. JavaScript and HTML5 is what we live and breathe.
 
 We believe in worldwide creative collaboration.
 We build our own tools, and we have created a range of relevant open source software.
 
+**We contribute**
+
 We actively contribute to open source  projects and push new technologies to the maximum.
+
+**We share**
 
 We also openly share our knowledge and thoughts, live on events and on our blog.
 
