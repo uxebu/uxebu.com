@@ -24,8 +24,8 @@ By combining the specialized knowledge and skills of our team we aim to deliver 
 
 **We are skilled.**
 
-We have expertise with a variety of programming languages, and a skilful knowledge of JavaScript and HTML5. That’s what we live and breathe for. We don’t just build your product, we make it outstanding. Our unique knowledge ensures high quality in maintaing your product durable.
-As a company, our aim is to focus on our clients and exceed their needs and expectations.
+We have expertise with a variety of programming languages, and deep and skilful knowledge of JavaScript and HTML5 - it’s what we live and breathe. We don’t just build your product, we make it outstanding. Our unique knowledge ensures high quality and maintainable and durable products.
+As a company, our aim is to focus on you and exceed your needs and expectations.
 
 
 **We love the web.**
@@ -37,7 +37,6 @@ We are craftsmen, therefore we constantly work on our craft and hone our skills.
 **We have principles.**
 
 Quality first and foremost. We believe in worldwide creative collaboration. We build our own tools, and we have created a range of relevant open source software.
-
 
 **We are masters in education too.**
 
