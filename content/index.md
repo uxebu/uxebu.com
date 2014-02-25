@@ -1,8 +1,8 @@
 Trailer
 =======
 
-February 8th 2014
-[JavaScript CodeRetreat](http://jscoderetreat.com)
+May 10th 2014
+[JavaScript CodeRetreat #2](http://jscoderetreat.com)
 
 ***
 
@@ -39,6 +39,10 @@ We build our own tools, and we have created a range of relevant open source soft
 We actively contribute to open source  projects and push new technologies to the maximum.
 
 We also openly share our knowledge and thoughts, live on events and on our blog.
+
+Feb 8th
+[Blog & Events](http://uxebu.com/blog)
+
 
 [Blog & Events](http://uxebu.com/blog)
 
